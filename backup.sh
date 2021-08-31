@@ -1,9 +1,6 @@
-#To run the codes, save this file as name.sh, go to the directory where it
-#is located and run the following code from the terminal.
+#To run the codes, save this file as name.sh, go to the directory where it is located and run the following code from the terminal.
 #sh name.sh /directory/subdirectory
-
-#This script backup ubuntu server configuration, 
-#data files and mysql database to a different device.
+#This script backup ubuntu server configuration, data files and mysql database to a different device.
 
 #!/bin/bash
 
